@@ -6,6 +6,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\LLS.Application\LLS.Application.csproj" />
       <ProjectReference Include="..\LLS.Database\LLS.Database.csproj" />
     </ItemGroup>
 
