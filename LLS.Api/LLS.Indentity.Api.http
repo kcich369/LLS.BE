@@ -1,0 +1,7 @@
+@LLS.Indentity.Api_HostAddress = http://localhost:5077
+
+
+GET {{LLS.Indentity.Api_HostAddress}}/auth/send
+Accept: application/json
+
+###
